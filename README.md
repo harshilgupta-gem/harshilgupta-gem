@@ -4,7 +4,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshilgupta-dev&label=Profile%20views&color=318add&style=flat" alt="harshilgupta-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshilgupta-gem&label=Profile%20views&color=318add&style=flat" alt="harshilgupta-dev" /> </p>
 
 ## 🙋‍♂️ About Me
 
@@ -23,13 +23,13 @@
 ## 📊 My Github Stats
 
   <br/>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshilgupta-dev&show_icons=true&theme=dark&locale=en" alt="harshilgupta-dev" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshilgupta-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="harshilgupta-dev" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshilgupta-gem&show_icons=true&theme=dark&locale=en" alt="harshilgupta-dev" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshilgupta-gem&show_icons=true&theme=dark&locale=en&layout=compact" alt="harshilgupta-dev" /></p>
   <br/>
 <br/>
 
 
-<a href="https://github.com/harshilgupta-dev/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshilgupta-dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/harshilgupta-gem/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshilgupta-gem&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
